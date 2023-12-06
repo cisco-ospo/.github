@@ -44,7 +44,7 @@ jobs:
           commit-message: OpenSSF Scorecard Report Updated
           title: OpenSSF Scorecard Report Updated
           body: OpenSSF Scorecard Report Updated
-          base: main
+          base: develop
           assignees: ${{ github.actor }}
           branch: openssf-scorecard-report-updated
           delete-branch: true
