@@ -1,0 +1,120 @@
+{
+  "github.com": {
+    "cisco": {
+      "oraf": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2023-11-27",
+          "commit": "55243ef78d87c5c9b010be37e8e01eef6a68953a"
+        }
+      },
+      "openh264": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2023-11-27",
+          "commit": "34a0d2d3e233e1764cc243c7c68ca46bb2479972"
+        }
+      },
+      "mindmeld": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2023-11-27",
+          "commit": "bd3547d5c1bd092dbd4a64a90528dfc2e2b3844a"
+        }
+      },
+      "ChezScheme": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2023-11-27",
+          "commit": "8e2c1bbcb4d5dc8b9a1918069b58ac8c3c9d79a7"
+        }
+      },
+      "go-hpke": {
+        "previous": [],
+        "current": {
+          "score": 3.7,
+          "date": "2023-11-27",
+          "commit": "246075f836094272b605d1ecd630cb63b6ba5596"
+        }
+      },
+      "joy": {
+        "previous": [],
+        "current": {
+          "score": 1.6,
+          "date": "2023-11-27",
+          "commit": "21770513e27ad10cde7c1ab7c1e6f024c8668119"
+        }
+      },
+      "node-scr": {
+        "previous": [],
+        "current": {
+          "score": 1.7,
+          "date": "2023-11-27",
+          "commit": "a9ba29969e96fc686467534979fd5df3501e1b15"
+        }
+      },
+      "node-kms": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2023-11-27",
+          "commit": "d5a4813525fb2c4ccd8e1c4e694abd01853d0fdd"
+        }
+      },
+      "node-jose": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2023-11-27",
+          "commit": "37db9e5371dc9a0557767a6a0190e2b0ab5cf3b6"
+        }
+      },
+      "libsrtp": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2023-11-27",
+          "commit": "1f0a5de63822f2946c9d93eb32ef2972d478e1e6"
+        }
+      },
+      "webex-assistant-sdk": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2023-11-27",
+          "commit": "b271335e3dab9802281306e8eda5782b6d27a762"
+        }
+      },
+      "mercury": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2023-11-27",
+          "commit": "75f6ad629ae7e669f7b0350c4111b2dc121cc204"
+        }
+      },
+      "zepster": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2023-11-27",
+          "commit": "6266a2c91edbcccfc877d4b93e2ac94833d6f377"
+        }
+      }
+    },
+    "cisco-open": {
+      "inclusive-language": {
+        "previous": [],
+        "current": {
+          "score": 8.5,
+          "date": "2023-12-05T07:24:45Z",
+          "commit": "31325a4c20aa57978b6c455cfc7267bdd5c6366e"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "github.com": {
+    "cisco": {
+      "included": [
+        "libsrtp",
+        "openh264",
+        "node-jose",
+        "node-scr",
+        "joy",
+        "node-kms",
+        "ChezScheme",
+        "mindmeld",
+        "go-hpke",
+        "oraf",
+        "webex-assistant-sdk",
+        "mercury",
+        "zepster"
+      ],
+      "excluded": []
+    },
+    "cisco-open": {
+      "included": [
+        "inclusive-language"
+      ],
+      "excluded": []
+    },
+    "cisco-ospo": {
+      "included": [],
+      "excluded": []
+    }
+  }
+}
