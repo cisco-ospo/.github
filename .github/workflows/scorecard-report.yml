@@ -1,0 +1,35 @@
+name: "OpenSSF Scorecard reporting"
+on: 
+  # Scheduled trigger
+  schedule:
+    # Run every Sunday at 00:00
+    - cron: "0 0 * * 0"
+  # Manual trigger
+  workflow_dispatch:
+
+permissions:
+  # Write access in order to update the local files with the reports
+  contents: write
+  pull-requests: none 
+  # Write access in order to create issues
+  issues: write
+  packages: none
+
+jobs:
+  security-scoring:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: OpenSSF Scorecard Monitor
+        uses: UlisesGascon/openssf-scorecard-monitor@v2.0.0-beta6
+        with:
+          scope: reports/scorecard/scope.json
+          database: reports/scorecard/database.json
+          report: reports/scorecard/report.md
+          auto-commit: true
+          auto-push: true
+          generate-issue: true
+          # The token is needed to create issues, discovery mode and pushing changes in files
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          discovery-enabled: true
+          discovery-orgs: 'cisco,cisco-open,cisco-ospo'
