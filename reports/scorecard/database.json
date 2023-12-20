@@ -15,12 +15,17 @@
             "score": 4.9,
             "date": "2023-11-27",
             "commit": "34a0d2d3e233e1764cc243c7c68ca46bb2479972"
+          },
+          {
+            "score": 5,
+            "date": "2023-12-11",
+            "commit": "fd66e67ac6136aff80b1567488568ba1ed7e8fb8"
           }
         ],
         "current": {
-          "score": 5,
-          "date": "2023-12-11",
-          "commit": "fd66e67ac6136aff80b1567488568ba1ed7e8fb8"
+          "score": 5.6,
+          "date": "2023-12-18",
+          "commit": "cfbd5896606b91638c8871ee91776dee31625bd5"
         }
       },
       "mindmeld": {
@@ -46,10 +51,16 @@
         }
       },
       "go-hpke": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 3.7,
+            "date": "2023-11-27",
+            "commit": "246075f836094272b605d1ecd630cb63b6ba5596"
+          }
+        ],
         "current": {
-          "score": 3.7,
-          "date": "2023-11-27",
+          "score": 3.6,
+          "date": "2023-12-18",
           "commit": "246075f836094272b605d1ecd630cb63b6ba5596"
         }
       },
@@ -91,12 +102,17 @@
             "score": 5.2,
             "date": "2023-11-27",
             "commit": "1f0a5de63822f2946c9d93eb32ef2972d478e1e6"
+          },
+          {
+            "score": 5.6,
+            "date": "2023-12-11",
+            "commit": "2d65fe7f6d2750ee1f3e701a7be775b0741e3dec"
           }
         ],
         "current": {
-          "score": 5.6,
-          "date": "2023-12-11",
-          "commit": "2d65fe7f6d2750ee1f3e701a7be775b0741e3dec"
+          "score": 5.5,
+          "date": "2023-12-18",
+          "commit": "e6ac305e35553a654406dcdc7da48cbb73997cfe"
         }
       },
       "webex-assistant-sdk": {
