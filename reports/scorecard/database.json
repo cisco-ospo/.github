@@ -107,12 +107,17 @@
             "score": 5.6,
             "date": "2023-12-11",
             "commit": "2d65fe7f6d2750ee1f3e701a7be775b0741e3dec"
+          },
+          {
+            "score": 5.5,
+            "date": "2023-12-18",
+            "commit": "e6ac305e35553a654406dcdc7da48cbb73997cfe"
           }
         ],
         "current": {
-          "score": 5.5,
-          "date": "2023-12-18",
-          "commit": "e6ac305e35553a654406dcdc7da48cbb73997cfe"
+          "score": 5.6,
+          "date": "2023-12-25",
+          "commit": "9a139f5c8ba7629b3c0ac9cc7bbf74e4bf10313a"
         }
       },
       "webex-assistant-sdk": {
