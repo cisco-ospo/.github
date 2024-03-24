@@ -252,11 +252,16 @@
             "score": 5,
             "date": "2024-01-11",
             "commit": "c9f2e5eb60af95ceaa84903fe3fb3f19a5aa663f"
+          },
+          {
+            "score": 4.7,
+            "date": "2024-02-24T01:42:30Z",
+            "commit": "4f234010a00a0fc47e10401f8e5c4201bc1d7594"
           }
         ],
         "current": {
-          "score": 4.7,
-          "date": "2024-02-24T01:42:30Z",
+          "score": 5.2,
+          "date": "2024-03-23T01:43:37Z",
           "commit": "4f234010a00a0fc47e10401f8e5c4201bc1d7594"
         }
       },
@@ -495,11 +500,16 @@
             "score": 3,
             "date": "2024-02-05",
             "commit": "e1e28336e61f1b5e394a11568cfd82060c0b066c"
+          },
+          {
+            "score": 3.1,
+            "date": "2024-03-04",
+            "commit": "a5291c970b48260eb97e9e4120151b70dde9d83b"
           }
         ],
         "current": {
-          "score": 3.1,
-          "date": "2024-03-04",
+          "score": 3,
+          "date": "2024-03-18",
           "commit": "a5291c970b48260eb97e9e4120151b70dde9d83b"
         }
       },
@@ -746,11 +756,16 @@
             "score": 6.4,
             "date": "2024-02-19",
             "commit": "9fb0cf3ce3e2ecd0a5c1d63d280cc8c624b1d33b"
+          },
+          {
+            "score": 7.2,
+            "date": "2024-03-11",
+            "commit": "9fb0cf3ce3e2ecd0a5c1d63d280cc8c624b1d33b"
           }
         ],
         "current": {
-          "score": 7.2,
-          "date": "2024-03-11",
+          "score": 7.1,
+          "date": "2024-03-18",
           "commit": "9fb0cf3ce3e2ecd0a5c1d63d280cc8c624b1d33b"
         }
       },
@@ -897,12 +912,17 @@
             "score": 5.8,
             "date": "2024-03-02T01:47:58Z",
             "commit": "6a1a2d31ee21f402eff7e14930b21e2bbed83683"
+          },
+          {
+            "score": 5.6,
+            "date": "2024-03-09T01:47:28Z",
+            "commit": "01275b2bc7703901ac3ed08907c195f40df4dcb9"
           }
         ],
         "current": {
-          "score": 5.6,
-          "date": "2024-03-09T01:47:28Z",
-          "commit": "01275b2bc7703901ac3ed08907c195f40df4dcb9"
+          "score": 5.7,
+          "date": "2024-03-23T21:45:25Z",
+          "commit": "4c2d183fce4c49c7ad4bd9964ac045c11e082ab7"
         }
       },
       "cloudland2023-advanced-opentelemetry-workshop": {
@@ -1009,11 +1029,16 @@
             "score": 4.1,
             "date": "2024-02-01T22:51:14Z",
             "commit": "8bcc209c2d4e453d484a0fe761f08bf560f87409"
+          },
+          {
+            "score": 4.5,
+            "date": "2024-03-02T01:43:20Z",
+            "commit": "bcb6ac38ceb326021ebbb7aee0f7bff9d11fb040"
           }
         ],
         "current": {
-          "score": 4.5,
-          "date": "2024-03-02T01:43:20Z",
+          "score": 5.1,
+          "date": "2024-03-23T01:43:50Z",
           "commit": "bcb6ac38ceb326021ebbb7aee0f7bff9d11fb040"
         }
       },
@@ -1043,12 +1068,17 @@
             "score": 5.7,
             "date": "2024-03-02T01:46:18Z",
             "commit": "d5dedc61c05cde06ff6ba82ed91f7406b6c74fc5"
+          },
+          {
+            "score": 5.8,
+            "date": "2024-03-09T01:45:46Z",
+            "commit": "a6f7bfc3769aeda5dc969d51add52d249f96f3b1"
           }
         ],
         "current": {
-          "score": 5.8,
-          "date": "2024-03-09T01:45:46Z",
-          "commit": "a6f7bfc3769aeda5dc969d51add52d249f96f3b1"
+          "score": 5.9,
+          "date": "2024-03-18T21:41:02Z",
+          "commit": "a645dde125399520823aa48501515d12684c66bb"
         }
       },
       "oss-template": {
