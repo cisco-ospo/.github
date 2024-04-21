@@ -69,7 +69,9 @@
         "vault-query",
         "hashing-reader-rs",
         "device-tco-calculator",
-        "sample-project"
+        "sample-project",
+        "observability-examples",
+        "terraform-provider-observability"
       ],
       "excluded": []
     },
@@ -78,7 +80,8 @@
         "sample-project",
         ".github",
         "oss-template",
-        "fsoc"
+        "fsoc",
+        "oss-template-go"
       ],
       "excluded": []
     }
