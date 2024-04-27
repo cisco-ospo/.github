@@ -18,7 +18,7 @@ jobs:
         issues: write
     steps:
       - name: 🧼 clean codeowners
-        uses: github/cleanowners@3e7f587d14938b7dcc220bca9288045fcdb63ac1 # no semver release yet
+        uses: github/cleanowners@696df8ed6b2f730f5440df3f80fcf9aa6bb51ea1 # no semver release yet
         env:
           GH_TOKEN: ${{ secrets.CISCO_SERVICE_TOKEN }}
           ORGANIZATION: cisco-ospo
