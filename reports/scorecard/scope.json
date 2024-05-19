@@ -72,7 +72,8 @@
         "sample-project",
         "observability-examples",
         "terraform-provider-observability",
-        "synthetic-heart"
+        "synthetic-heart",
+        "gnmi-client-examples"
       ],
       "excluded": []
     },
