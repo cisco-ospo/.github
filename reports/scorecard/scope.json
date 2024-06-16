@@ -73,7 +73,9 @@
         "observability-examples",
         "terraform-provider-observability",
         "synthetic-heart",
-        "gnmi-client-examples"
+        "gnmi-client-examples",
+        "pymultiworld",
+        "sustainability-insights-in-a-box"
       ],
       "excluded": []
     },
