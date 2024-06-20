@@ -19,8 +19,8 @@ permissions: read-all
 jobs:
   run-scorecard:
     # Call reusable workflow file
-    # uses: ./.github/workflows/_scorecard.yml
-    uses: ./.github/workflows/scorecard-test.yml
+    uses: ./.github/workflows/_scorecard.yml
+    # uses: ./.github/workflows/scorecard-test.yml
     permissions:
       id-token: write
       security-events: write
