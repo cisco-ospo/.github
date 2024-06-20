@@ -198,17 +198,12 @@
             "score": 5.7,
             "date": "2024-04-29",
             "commit": "d44199443dd900f6b6d6596c5edf1b9860d8f5c1"
-          },
-          {
-            "score": 5.5,
-            "date": "2024-05-06",
-            "commit": "ca271bc408eaf05ef2ff124d7baa5f0c04a59c3a"
           }
         ],
         "current": {
-          "score": 5.6,
-          "date": "2024-06-17",
-          "commit": "5dea791d83683ab91c5ae1d33ab319d954dd86c8"
+          "score": 5.5,
+          "date": "2024-05-06",
+          "commit": "ca271bc408eaf05ef2ff124d7baa5f0c04a59c3a"
         }
       },
       "webex-assistant-sdk": {
@@ -436,17 +431,12 @@
             "score": 6.1,
             "date": "2024-04-29",
             "commit": "ac72467dbc7aaee83a3584063e192751dbeafed1"
-          },
-          {
-            "score": 6.9,
-            "date": "2024-06-10",
-            "commit": "8cec7870274d652250bf76915500653decebf201"
           }
         ],
         "current": {
-          "score": 7.2,
-          "date": "2024-06-17",
-          "commit": "bedf3c3c5b17c9563c0de7f36cebd3467aec20d7"
+          "score": 6.9,
+          "date": "2024-06-10",
+          "commit": "8cec7870274d652250bf76915500653decebf201"
         }
       },
       "jalapeno": {
@@ -828,17 +818,12 @@
             "score": 5.7,
             "date": "2024-04-20T01:44:52Z",
             "commit": "27d79a0355ad15e4c6166e8763d91a96ac8aa4af"
-          },
-          {
-            "score": 5.1,
-            "date": "2024-05-11T01:45:33Z",
-            "commit": "27d79a0355ad15e4c6166e8763d91a96ac8aa4af"
           }
         ],
         "current": {
-          "score": 5.6,
-          "date": "2024-06-19T11:50:06Z",
-          "commit": "ea52daae0a6dd5a6f3ce62ab89291b6a3e92a4f2"
+          "score": 5.1,
+          "date": "2024-05-11T01:45:33Z",
+          "commit": "27d79a0355ad15e4c6166e8763d91a96ac8aa4af"
         }
       },
       "KubeCon-NA-2022": {
@@ -1523,17 +1508,12 @@
             "score": 5.8,
             "date": "2024-03-09T01:45:46Z",
             "commit": "a6f7bfc3769aeda5dc969d51add52d249f96f3b1"
-          },
-          {
-            "score": 5.9,
-            "date": "2024-03-18T21:41:02Z",
-            "commit": "a645dde125399520823aa48501515d12684c66bb"
           }
         ],
         "current": {
-          "score": 6.3,
-          "date": "2024-06-20T22:52:13Z",
-          "commit": "c6eee3e883bd987f7c98b7bbb3a35ec38825c89c"
+          "score": 5.9,
+          "date": "2024-03-18T21:41:02Z",
+          "commit": "a645dde125399520823aa48501515d12684c66bb"
         }
       },
       "oss-template": {
