@@ -31,7 +31,8 @@ jobs:
     steps:
       - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
       - name: 🔍 run scorecard monitor
-        uses: ossf/scorecard-monitor@8551177324543b39670fe3c430012c946a937bd1 # v2.0.0-beta7
+        uses: ossf/scorecard-monitor@main # temporarily using main until v2.0.0-beta8 is released
+        #uses: ossf/scorecard-monitor@8551177324543b39670fe3c430012c946a937bd1 # v2.0.0-beta7
         id: scorecard-monitor
         with:
           scope: reports/scorecard/scope.json
