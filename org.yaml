@@ -1,0 +1,104 @@
+teams:
+- name: demo-repository-admins
+  maintainers:
+  - cisco-service
+  - detiber
+  - justaugustus
+  - lelia
+  - natalisucks
+  - openclarity-service
+  - svrnm
+  members: []
+- name: demo-repository-maintainers
+  maintainers:
+  - lelia
+  members: []
+- name: org-admins
+  maintainers:
+  - cisco-service
+  - detiber
+  - justaugustus
+  - lelia
+  - natalisucks
+  - openclarity-service
+  - svrnm
+  members: []
+- name: oss-template-admins
+  maintainers:
+  - cisco-service
+  - detiber
+  - justaugustus
+  - lelia
+  - natalisucks
+  - openclarity-service
+  - svrnm
+  members: []
+- name: oss-template-maintainers
+  maintainers:
+  - lelia
+  members: []
+- name: test-team-admins
+  maintainers:
+  - le1ia
+  - lelia
+  - svrnm
+  members: []
+- name: test-team-contributors
+  maintainers:
+  - lelia
+  - svrnm
+  members:
+  - le1ia
+- name: test-team-maintainers
+  maintainers:
+  - lelia
+  - svrnm
+  members:
+  - le1ia
+- name: typescript-action-admins
+  maintainers:
+  - cisco-service
+  - detiber
+  - justaugustus
+  - lelia
+  - natalisucks
+  - openclarity-service
+  - svrnm
+  members: []
+- name: typescript-action-maintainers
+  maintainers:
+  - lelia
+  members: []
+repositories:
+- name: .allstar
+  visibility: public
+- name: .github
+  teams:
+    org-admins: admin
+  visibility: public
+- name: .github-private
+  teams:
+    org-admins: admin
+  visibility: private
+- name: clowarden
+  visibility: public
+- name: demo-repository
+  teams:
+    demo-repository-admins: admin
+    demo-repository-maintainers: maintain
+  visibility: private
+- name: osc-utils
+  visibility: internal
+- name: oss-template
+  teams:
+    oss-template-admins: admin
+    oss-template-maintainers: maintain
+  visibility: public
+- name: oss-template-go
+  visibility: private
+- name: outbound-review
+  visibility: private
+- name: sample-project
+  visibility: public
+- name: security-test
+  visibility: internal
