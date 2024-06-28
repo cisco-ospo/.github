@@ -318,12 +318,17 @@
             "score": 4.7,
             "date": "2024-02-24T01:42:30Z",
             "commit": "4f234010a00a0fc47e10401f8e5c4201bc1d7594"
+          },
+          {
+            "score": 5.2,
+            "date": "2024-03-23T01:43:37Z",
+            "commit": "4f234010a00a0fc47e10401f8e5c4201bc1d7594"
           }
         ],
         "current": {
-          "score": 5.2,
-          "date": "2024-03-23T01:43:37Z",
-          "commit": "4f234010a00a0fc47e10401f8e5c4201bc1d7594"
+          "score": 5.5,
+          "date": "2024-06-28T21:03:13Z",
+          "commit": "e1dc12c5b48e876d2d5b240ee84150a94482eec3"
         }
       },
       "full-stack-wellness": {
@@ -569,11 +574,17 @@
         }
       },
       "meta-fboss-export": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 5.7,
+            "date": "2024-01-29",
+            "commit": "01f91b13a2a3e4a0daea120c25920f862754adac"
+          }
+        ],
         "current": {
-          "score": 5.7,
-          "date": "2024-01-29",
-          "commit": "01f91b13a2a3e4a0daea120c25920f862754adac"
+          "score": 5.8,
+          "date": "2024-06-28T21:26:36Z",
+          "commit": "60943dc20c52e5d53b140bce55200dcabe9ec23d"
         }
       },
       "libkit": {
@@ -792,11 +803,17 @@
         }
       },
       "cisco-8000-kernel-modules": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 5.3,
+            "date": "2024-01-29",
+            "commit": "731909818130375cae729987a9ae44dfa13bfdcb"
+          }
+        ],
         "current": {
-          "score": 5.3,
-          "date": "2024-01-29",
-          "commit": "731909818130375cae729987a9ae44dfa13bfdcb"
+          "score": 5.6,
+          "date": "2024-06-28T21:27:53Z",
+          "commit": "2aee7e91ba09dbd8d2484285dd08e0b8fca6dd91"
         }
       },
       "camblet": {
@@ -1583,6 +1600,150 @@
           "score": 5.8,
           "date": "2024-06-15T01:49:14Z",
           "commit": "191c520e1b75bb337aa2d5e29ed3b157a676be40"
+        }
+      },
+      ".allstar": {
+        "previous": [],
+        "current": {
+          "score": 5.5,
+          "date": "2024-06-28T21:23:25Z",
+          "commit": "7f780faadac514c465b54493d9b712cf731ba366"
+        }
+      },
+      "ssh2influx": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2024-06-28T21:32:28Z",
+          "commit": "5d7af784dc4dc43ea6cfaa22eb6287a27e77c3c2"
+        }
+      },
+      "GraphBOM": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2024-06-28T21:32:07Z",
+          "commit": "6544b17ae2ac86c097824188350bccc173520755"
+        }
+      },
+      "go-lanai": {
+        "previous": [],
+        "current": {
+          "score": 5.7,
+          "date": "2024-06-28T21:48:12Z",
+          "commit": "b382be7566181676a0cb5f8d47458d6e7e9c4fec"
+        }
+      },
+      "azure-subscription-cleanup": {
+        "previous": [],
+        "current": {
+          "score": 5,
+          "date": "2024-06-28T21:30:34Z",
+          "commit": "d260e206ea66ac126891f599d39535288584e115"
+        }
+      },
+      "ansible-collection-sdwan": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2024-06-28T21:44:18Z",
+          "commit": "11c96693c65ba8e4f0f3c604279869a7cbed0ded"
+        }
+      },
+      "stated-workflow": {
+        "previous": [],
+        "current": {
+          "score": 6.4,
+          "date": "2024-06-28T21:26:35Z",
+          "commit": "abbd33c153e83356e622190bc730d124eedb5250"
+        }
+      },
+      "ansible-collection-sdwan-deployment": {
+        "previous": [],
+        "current": {
+          "score": 4.9,
+          "date": "2024-06-28T21:46:33Z",
+          "commit": "a8256cbb7514cc3c4b96a466a2115d02f2da7083"
+        }
+      },
+      "lion": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2024-06-28T21:31:07Z",
+          "commit": "74545acee5b7aa1fc0191253a35861aa933a92ff"
+        }
+      },
+      ".github": {
+        "previous": [],
+        "current": {
+          "score": 5.9,
+          "date": "2024-06-28T21:23:17Z",
+          "commit": "8ba66dc59bcf67d512cca73411bab66819486a69"
+        }
+      },
+      "cisco-catalyst-wan-sdk": {
+        "previous": [],
+        "current": {
+          "score": 5.4,
+          "date": "2024-06-28T21:31:49Z",
+          "commit": "13f73257faed3a98605aa0a9fab3dfb496351ddc"
+        }
+      },
+      "Quartz": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2024-06-28T21:46:40Z",
+          "commit": "b0023d3deccaa28e4510dcdb3ffe87d94a1a9092"
+        }
+      },
+      "perf-trace-viewer": {
+        "previous": [],
+        "current": {
+          "score": 4.2,
+          "date": "2024-06-28T21:46:53Z",
+          "commit": "63652f4954f4a358a07206c9b96aee77626c53e7"
+        }
+      },
+      "sdwan-lab-deployment-tool": {
+        "previous": [],
+        "current": {
+          "score": 5.3,
+          "date": "2024-06-28T21:46:50Z",
+          "commit": "32f262b6eecfad13c00f5e314e0786b1b01e44e9"
+        }
+      },
+      "buffalo": {
+        "previous": [],
+        "current": {
+          "score": 4.1,
+          "date": "2024-06-28T21:20:49Z",
+          "commit": "9ca7952660e8f86aa55df9addf8327b4b7ace50f"
+        }
+      },
+      "modelsmith": {
+        "previous": [],
+        "current": {
+          "score": 4.7,
+          "date": "2024-06-28T21:46:58Z",
+          "commit": "028d1eda6c5f34b85f934c93586f53c727f99633"
+        }
+      },
+      "terraform-provider-meraki": {
+        "previous": [],
+        "current": {
+          "score": 7.2,
+          "date": "2024-06-28T21:36:27Z",
+          "commit": "7b3e63a22f6706c110957609ef608e81956b7166"
+        }
+      },
+      "ansible-collection-catalystwan": {
+        "previous": [],
+        "current": {
+          "score": 5.2,
+          "date": "2024-06-28T21:36:22Z",
+          "commit": "1f778a889efadb64454a90dc9da31fc4b87b8417"
         }
       }
     },
