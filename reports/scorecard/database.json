@@ -376,11 +376,16 @@
             "score": 7.3,
             "date": "2024-05-18T01:50:43Z",
             "commit": "ce8b1aeac85405bb9432c3956c006a644b790c68"
+          },
+          {
+            "score": 7.1,
+            "date": "2024-06-15T01:47:38Z",
+            "commit": "00fc66b60cd2c18ef540649f50acfd9570049779"
           }
         ],
         "current": {
-          "score": 7.1,
-          "date": "2024-06-15T01:47:38Z",
+          "score": 7,
+          "date": "2024-06-29T01:47:20Z",
           "commit": "00fc66b60cd2c18ef540649f50acfd9570049779"
         }
       },
@@ -742,11 +747,16 @@
             "score": 2.7,
             "date": "2024-05-13",
             "commit": "a5291c970b48260eb97e9e4120151b70dde9d83b"
+          },
+          {
+            "score": 3.7,
+            "date": "2024-06-26T23:18:55Z",
+            "commit": "ecac696f10013c36400aae269da3706366776d68"
           }
         ],
         "current": {
-          "score": 3.7,
-          "date": "2024-06-26T23:18:55Z",
+          "score": 4.3,
+          "date": "2024-06-29T01:50:28Z",
           "commit": "ecac696f10013c36400aae269da3706366776d68"
         }
       },
@@ -770,11 +780,16 @@
             "score": 4.8,
             "date": "2024-01-29",
             "commit": "a507ce35c1508812fbea82c803554ec3e482a665"
+          },
+          {
+            "score": 5,
+            "date": "2024-06-26T23:21:45Z",
+            "commit": "e110a192346be0a5e164d28e3dbce58bc97381f0"
           }
         ],
         "current": {
-          "score": 5,
-          "date": "2024-06-26T23:21:45Z",
+          "score": 5.4,
+          "date": "2024-06-29T01:48:24Z",
           "commit": "e110a192346be0a5e164d28e3dbce58bc97381f0"
         }
       },
@@ -1112,11 +1127,16 @@
             "score": 5.4,
             "date": "2024-05-11T01:48:44Z",
             "commit": "b8b02c1c56ab149cbad1bfb4634bc2aba5becea8"
+          },
+          {
+            "score": 5.2,
+            "date": "2024-06-15T01:50:25Z",
+            "commit": "b8b02c1c56ab149cbad1bfb4634bc2aba5becea8"
           }
         ],
         "current": {
-          "score": 5.2,
-          "date": "2024-06-15T01:50:25Z",
+          "score": 5.1,
+          "date": "2024-06-29T01:50:31Z",
           "commit": "b8b02c1c56ab149cbad1bfb4634bc2aba5becea8"
         }
       },
@@ -1544,11 +1564,17 @@
         }
       },
       "observability-examples": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 7,
+            "date": "2024-04-20T01:44:06Z",
+            "commit": "ebba4ba9877b3caade61db6480c379174b2d0c91"
+          }
+        ],
         "current": {
-          "score": 7,
-          "date": "2024-04-20T01:44:06Z",
-          "commit": "ebba4ba9877b3caade61db6480c379174b2d0c91"
+          "score": 7.9,
+          "date": "2024-06-29T01:46:51Z",
+          "commit": "2c20f35e3ca8e624058cafaccb8c3f109b080c61"
         }
       },
       "terraform-provider-observability": {
@@ -1683,10 +1709,16 @@
         }
       },
       "cisco-catalyst-wan-sdk": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 5.4,
+            "date": "2024-06-28T21:31:49Z",
+            "commit": "13f73257faed3a98605aa0a9fab3dfb496351ddc"
+          }
+        ],
         "current": {
-          "score": 5.4,
-          "date": "2024-06-28T21:31:49Z",
+          "score": 4.9,
+          "date": "2024-06-29T01:48:25Z",
           "commit": "13f73257faed3a98605aa0a9fab3dfb496351ddc"
         }
       },
@@ -1797,11 +1829,16 @@
             "score": 4.4,
             "date": "2024-06-22T01:46:28Z",
             "commit": "7ae117ea10437d1a120a8b1f98e1e650b7ca5afd"
+          },
+          {
+            "score": 6.1,
+            "date": "2024-06-27T00:51:54Z",
+            "commit": "7c76cc4c26009be628290281d0e4fdddf398f994"
           }
         ],
         "current": {
-          "score": 6.1,
-          "date": "2024-06-27T00:51:54Z",
+          "score": 5.5,
+          "date": "2024-06-29T01:49:57Z",
           "commit": "7c76cc4c26009be628290281d0e4fdddf398f994"
         }
       },
