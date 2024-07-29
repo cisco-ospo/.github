@@ -164,7 +164,8 @@
         "perf-trace-viewer",
         "modelsmith",
         "ndfc-roles",
-        "otelify.sh"
+        "otelify.sh",
+        "path-warden"
       ],
       "excluded": []
     },
