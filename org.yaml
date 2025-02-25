@@ -2,7 +2,6 @@ teams:
 - name: demo-repository-admins
   maintainers:
   - cisco-service
-  - detiber
   - justaugustus
   - lelia
   - natalisucks
@@ -16,7 +15,6 @@ teams:
 - name: org-admins
   maintainers:
   - cisco-service
-  - detiber
   - justaugustus
   - lelia
   - natalisucks
@@ -26,7 +24,6 @@ teams:
 - name: oss-template-admins
   maintainers:
   - cisco-service
-  - detiber
   - justaugustus
   - lelia
   - natalisucks
@@ -58,7 +55,6 @@ teams:
 - name: typescript-action-admins
   maintainers:
   - cisco-service
-  - detiber
   - justaugustus
   - lelia
   - natalisucks

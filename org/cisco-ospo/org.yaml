@@ -1,7 +1,6 @@
 ---
 admins:
   - cisco-service
-  - detiber
   - justaugustus
   - lelia
   - natalisucks
@@ -23,7 +22,6 @@ teams:
     description: Admins for Cisco OSPO organization
     maintainers:
       - cisco-service
-      - detiber
       - justaugustus
       - lelia
       - natalisucks
