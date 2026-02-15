@@ -165,7 +165,9 @@
         "modelsmith",
         "ndfc-roles",
         "otelify.sh",
-        "path-warden"
+        "path-warden",
+        "AdversaryShield",
+        "app-simulator"
       ],
       "excluded": []
     },
