@@ -1,12 +1,9 @@
 ---
 admins:
   - cisco-service
-  - detiber
-  - justaugustus
-  - lelia
   - natalisucks
   - openclarity-service
-  - svrnm
+  - tiswanso
 billing_email: ospo-billing@cisco.com
 company: '@cisco-open'
 default_repository_permission: read
@@ -23,12 +20,9 @@ teams:
     description: Admins for Cisco OSPO organization
     maintainers:
       - cisco-service
-      - detiber
-      - justaugustus
-      - lelia
       - natalisucks
       - openclarity-service
-      - svrnm
+      - tiswanso
     privacy: closed
     repos:
       .github: admin

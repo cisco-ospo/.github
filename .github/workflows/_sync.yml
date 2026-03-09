@@ -13,8 +13,8 @@ on:
         default: ''
 
 env:
-  ADMIN_LIST: "cisco-service,detiber,justaugustus,lelia,natalisucks,openclarity-service,svrnm"
-  ADMIN_COUNT: 7
+  ADMIN_LIST: "cisco-service,natalisucks,openclarity-service,tiswanso"
+  ADMIN_COUNT: 4
 
 jobs:
   sync:
