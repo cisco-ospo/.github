@@ -2,72 +2,48 @@ teams:
 - name: demo-repository-admins
   maintainers:
   - cisco-service
-  - detiber
-  - justaugustus
-  - lelia
   - natalisucks
   - openclarity-service
-  - svrnm
+  - tiswanso
   members: []
 - name: demo-repository-maintainers
   maintainers:
-  - lelia
   members: []
 - name: org-admins
   maintainers:
   - cisco-service
-  - detiber
-  - justaugustus
-  - lelia
   - natalisucks
   - openclarity-service
-  - svrnm
+  - tiswanso
   members: []
 - name: oss-template-admins
   maintainers:
   - cisco-service
-  - detiber
-  - justaugustus
-  - lelia
   - natalisucks
   - openclarity-service
-  - svrnm
+  - tiswanso
   members: []
 - name: oss-template-maintainers
   maintainers:
-  - lelia
   members: []
 - name: test-team-admins
   maintainers:
-  - le1ia
-  - lelia
-  - svrnm
   members: []
 - name: test-team-contributors
   maintainers:
-  - lelia
-  - svrnm
   members:
-  - le1ia
 - name: test-team-maintainers
   maintainers:
-  - lelia
-  - svrnm
   members:
-  - le1ia
 - name: typescript-action-admins
   maintainers:
   - cisco-service
-  - detiber
-  - justaugustus
-  - lelia
   - natalisucks
   - openclarity-service
-  - svrnm
+  - tiswanso
   members: []
 - name: typescript-action-maintainers
   maintainers:
-  - lelia
   members: []
 repositories:
 - name: .allstar
