@@ -4,12 +4,9 @@ teams:
     description: ''
     maintainers:
       - cisco-service
-      - detiber
-      - justaugustus
-      - lelia
       - natalisucks
       - openclarity-service
-      - svrnm
+      - tiswanso
     members: []
     privacy: closed
     repos:
@@ -17,7 +14,6 @@ teams:
   typescript-action-maintainers:
     description: ''
     maintainers:
-      - lelia
     members: []
     privacy: closed
     repos:

@@ -12,7 +12,6 @@ email: ospo-billing@cisco.com
 has_organization_projects: true
 has_repository_projects: true
 members:
-  - le1ia
 members_can_create_repositories: true
 name: cisco-ospo
 teams:

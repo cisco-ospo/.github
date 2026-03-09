@@ -4,12 +4,9 @@ teams:
     description: Demo repository admins
     maintainers:
       - cisco-service
-      - detiber
-      - justaugustus
-      - lelia
       - natalisucks
       - openclarity-service
-      - svrnm
+      - tiswanso
     members: []
     privacy: closed
     repos:
@@ -17,7 +14,6 @@ teams:
   demo-repository-maintainers:
     description: Demo repository maintainers
     maintainers:
-      - lelia
     members: []
     privacy: closed
     repos:
