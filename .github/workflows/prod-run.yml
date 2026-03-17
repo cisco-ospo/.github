@@ -19,3 +19,4 @@ jobs:
     secrets: inherit
     with:
       confirm: true
+      maximum-removal-delta: "${{ vars.PERIBOLOS_MAX_RM_DELTA }}"
