@@ -11,6 +11,10 @@ on:
         type: string
         required: false
         default: ''
+      maximum-removal-delta:
+        type: string
+        default: "0.25"
+        required: false
 
 env:
   ADMIN_LIST: "cisco-service,natalisucks,openclarity-service,tiswanso"
@@ -41,6 +45,7 @@ jobs:
           config-path: org
           required-admins: ${{ env.ADMIN_LIST }}
           min-admins: ${{ env.ADMIN_COUNT }}
+          maximum-removal-delta: ${{ inputs.maximum-removal-delta }}
           require-self: true
           fix-org: true
           fix-org-members: true
