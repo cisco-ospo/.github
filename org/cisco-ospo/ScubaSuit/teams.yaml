@@ -1,0 +1,21 @@
+---
+teams:
+  ScubaSuit-admins:
+    description: ScubaSuit repository admins
+    maintainers:
+      - cisco-service
+      - natalisucks
+      - tiswanso
+    members:
+      - sam-aydlette
+    privacy: secret
+    repos:
+      ScubaSuit: admin
+  ScubaSuit-members:
+    description: ScubaSuit repository members
+    maintainers:
+      - sam-aydlette
+    members: []
+    privacy: secret
+    repos:
+      ScubaSuit: triage
