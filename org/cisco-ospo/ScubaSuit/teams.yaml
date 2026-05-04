@@ -14,7 +14,23 @@ teams:
   ScubaSuit-members:
     description: ScubaSuit repository members
     maintainers:
+      - aaronmbr
+      - adhilto
+      - ahuynhecs
+      - atuomit
+      - chad-cisa
+      - chrisda2-cisco
+      - ejaronne
+      - joelkabot
+      - mbrannig-cisco
+      - mdueltgen
+      - mikeshort42
+      - mitchelbaker-cisa
+      - prodjom
+      - roger-cisa
+      - rw-xyz
       - sam-aydlette
+      - tkol2022
     members: []
     privacy: secret
     repos:
