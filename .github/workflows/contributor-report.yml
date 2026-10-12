@@ -40,7 +40,7 @@ jobs:
           echo "START_DATE=$START_DATE" >> "$GITHUB_ENV"
           echo "END_DATE=$END_DATE" >> "$GITHUB_ENV"
       - name: 📰 run contributors action
-        uses: github/contributors@b518e14609eadf468470392201312777172b5dec # v2.0.17
+        uses: github/contributors@6bab24b098e0b692d679d59f97d73b9297c96c18 # v2.0.21
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           START_DATE: ${{ env.START_DATE }}
